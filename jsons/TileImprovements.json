@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Kasbah",
+		"terrainsCanBeBuiltOn": ["Desert","Flood plains"],
+		"food": 1,
+		"production": 1,
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Chivalry",
+		"uniques": ["Gives a defensive bonus of [50]%"]
+	}
+]
